@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\wa9test.props" />
+</Project>

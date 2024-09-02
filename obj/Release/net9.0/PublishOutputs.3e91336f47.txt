@@ -1,0 +1,7 @@
+Q:\dotnetapps\wa9test\bin\Release\net9.0\publish\wa9test.exe
+Q:\dotnetapps\wa9test\bin\Release\net9.0\publish\appsettings.Development.json
+Q:\dotnetapps\wa9test\bin\Release\net9.0\publish\appsettings.json
+Q:\dotnetapps\wa9test\bin\Release\net9.0\publish\wa9test.dll
+Q:\dotnetapps\wa9test\bin\Release\net9.0\publish\wa9test.deps.json
+Q:\dotnetapps\wa9test\bin\Release\net9.0\publish\wa9test.runtimeconfig.json
+Q:\dotnetapps\wa9test\bin\Release\net9.0\publish\wa9test.pdb
